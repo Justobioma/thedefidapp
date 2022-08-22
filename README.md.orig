@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+GAS_REPORT=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
+=======
+# thedefidapp
+This is a robust defidapp built on the Polygon(Mumbai) blockchain. It uses hardhat and nomadfoundation as well as the popular Openzeppellin dependency to demonstrate one of the important pillars of web3 technologies. The dapp would be able to sell and purchase the native currency, OBToken from the user. The frontend is built with Nextjs, a formidable iteration from Reactjs.
+>>>>>>> ed2eebca0ca6a33297becd055483e4a94b6c6b99
